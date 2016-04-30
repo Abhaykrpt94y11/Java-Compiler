@@ -8,7 +8,7 @@
 7. We have implemented following grammars with no conflict. 
  program class statement expression variabledecl listofvars ifelse condition relationalexp forloop whileloop function parameters  return continue break  listofstatement switch caselist case vartype
 8. 3-address code is being generated for expressions , relational expression  , expessiona  inside switch statements.
-8.To implement the assignment,run following commands in order.
+8.To run the assignment,run following commands in order.
 - cd asgn4/
 Commands:
 make clean 
@@ -19,8 +19,8 @@ for  each test case X run following command  e.g for x = 5;
 
 
 Group 26
+Abhay Kumar	 11008
 Prem Nath Bharti 11538
 Anurag Kumar 	 11138
-Abhay Kumar	 11008
 Prashant Kumar   11525
 
